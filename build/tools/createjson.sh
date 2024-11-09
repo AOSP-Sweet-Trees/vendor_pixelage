@@ -75,7 +75,7 @@ else
 		"id": "'$id'",
 		"romtype": "'$romtype'",
 		"size": '$size',
-		"url": "https://sourceforge.net/projects/projectpixelage/files/'$1'/'$3'/download",
+		"url": "https://sourceforge.net/projects/builds0/files/'$3'/download",
 		"version": "'$version'"
 	  }
 	]
